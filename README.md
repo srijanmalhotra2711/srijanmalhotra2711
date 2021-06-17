@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srijanmalhotra2711
 - 👀 I’m interested in Machine Learning and Full Stack
 - 🌱 I’m currently enhancing my skills in Python
-- 💞️ I’m looking to collaborate with likeminded people 
+- 💞️ I’m looking to collaborate with like minded individuals 
 - 📫 How to reach me srijan.malhotra2711@gmail.com
