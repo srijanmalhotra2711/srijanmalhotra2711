@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @srijanmalhotra2711
+- 👀 I’m interested in Machine Learning and SDE
+- 🌱 I’m currently enhancing my skills in Python
+- 💞️ I’m looking to collaborate with likeminded people 
+- 📫 How to reach me srijan.malhotra2711@gmail.com
