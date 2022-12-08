@@ -2,7 +2,7 @@
 
 <img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h1 align="left">Good having you here!</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanmalhotra2711&label=Profile%20views&color=0e75b6&style=flat" alt="srijanmalhotra2711" /> </p>
+<h1 align="left">Good having you here!</h1> <p> <img src="https://komarev.com/ghpvc/?username=srijanmalhotra2711&label=Profile%20views&color=0e75b6&style=flat" alt="srijanmalhotra2711" /> </p>
 
 - 👀 I’m interested in **Software Engineering and Data Science**
 
