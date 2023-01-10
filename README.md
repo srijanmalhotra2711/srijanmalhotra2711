@@ -50,6 +50,6 @@
 
 ## **My GitHub Stats:**
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=srijanmalhotra2711&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srijanmalhotra2711&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanmalhotra2711&theme=tokyonight&hide=jupyter%20notebook,HTML"/>
 </p>
