@@ -8,10 +8,6 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="408" height="318" />
 </p>
 
----
-
-## 🌟 About Me
-
 As a **Software Engineer 2** at **Dell Technologies**, I focus on building **scalable, reliable systems** while continuously expanding my expertise in **AI** and modern software development practices. With over **three years** of hands-on experience, I’ve developed a strong foundation in **Python** and **backend engineering**, applying practical problem-solving skills to real-world challenges.
 
 In my role, I work across teams to design and deliver **efficient solutions** that improve **system performance** and **developer productivity**. I’m particularly interested in the intersection of **software engineering** and **artificial intelligence**, and I actively explore **emerging technologies** to stay ahead of industry trends and bring **innovative ideas** into production environments.
@@ -65,7 +61,6 @@ My strength lies in breaking down **complex technical problems** into clear, act
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srijanmalhotra2711&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijanmalhotra2711&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanmalhotra2711&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
