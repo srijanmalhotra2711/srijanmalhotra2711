@@ -8,11 +8,6 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="408" height="318" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijanmalhotra2711&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijanmalhotra2711&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🌟 About Me
@@ -69,6 +64,8 @@ My strength lies in breaking down **complex technical problems** into clear, act
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srijanmalhotra2711&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijanmalhotra2711&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanmalhotra2711&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
