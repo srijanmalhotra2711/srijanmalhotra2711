@@ -25,6 +25,7 @@ My strength lies in breaking down **complex technical problems** into clear, act
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ED8B00)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=323330)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
@@ -36,7 +37,9 @@ My strength lies in breaking down **complex technical problems** into clear, act
 ![Drupal](https://img.shields.io/badge/Code-Drupal-informational?style=flat&logo=drupal&logoColor=white&color=0678BE)
 
 ### Data Science & ML
-![scikit-learn](https://img.shields.io/badge/Code-scikit-learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
+![scikit-learn](https://img.shields.io/badge/Code-scikit-learn-informational?style=flat&color=F7931E)
+![TensorFlow](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
+![LangChain](https://img.shields.io/badge/Code-LangChain-informational?style=flat&logo=langchain&logoColor=white&color=000000)
 ![NumPy](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![Pandas](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![OpenCV](https://img.shields.io/badge/Code-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=white)
